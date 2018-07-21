@@ -26,4 +26,4 @@ def get_pred(data, lag=2):
 
 if __name__=='__main__':
     train = pd.read_csv('../data/train.csv.zip')
-    pred = get_pred(train)
+    pred = get_pred(train.iloc[3])
