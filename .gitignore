@@ -3,4 +3,4 @@ competitive_ml/readonly.zip
 competitive_ml/readonly/**
 **/.idea
 **/*.csv
-**/data/*.zip
+**/data
