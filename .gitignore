@@ -5,3 +5,4 @@ competitive_ml/readonly/**
 **/*.csv
 **/*.zip
 **/data
+**/*.pkl
